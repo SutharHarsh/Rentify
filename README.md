@@ -36,7 +36,7 @@ The **NFT Rental Marketplace** is a decentralized application that allows users 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/Rentify.git
+git clone https://github.com/SutharHarsh/Rentify.git
 cd Rentify
 
 # 2. Install dependencies
